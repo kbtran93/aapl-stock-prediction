@@ -1,1 +1,3 @@
-# aapl-stock-prediction
+# Apple Stock Prediction
+
+Work In Progress
