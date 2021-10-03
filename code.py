@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Author: Binh Tran
+Description: Code file for AAPL Price Prediction notebook
 """
 # Import required modules
 import pandas as pd
