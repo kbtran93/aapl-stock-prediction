@@ -19,7 +19,7 @@ This project is executed by Jupyter Notebook using Python 3 coding. These packag
 - yfinance
 - Scikit-Learn
 
-***Note***: the pmdarima library does not compatible well with the latest release of statsmodels. It is better to uninstall the current version of statsmodels and use the statsmodels scripted to install alongside with pmdarima
+***Note***: the pmdarima library does not play nice with the latest release of statsmodels. It is better to uninstall the current version of statsmodels and use the statsmodels scripted to install alongside with pmdarima
 
 ## Targets<a name="questions"></a>
 
