@@ -14,7 +14,6 @@ This project is executed by Jupyter Notebook using Python 3 coding. These packag
 - Numpy
 - Pandas
 - matplotlib 
-- Seaborn
 - statsmodels
 - pmdarima
 - yfinance
